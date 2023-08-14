@@ -1,0 +1,27 @@
+QWidget {
+    color: #C4DFE6;
+    background-color: #003B46;
+    font-family: Rubik;
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+QPushButton {
+    background-color: #07575B;
+    border: none;
+    border-radius: 8px;
+
+}
+
+
+QPushButton:hover {
+    background-color: #66A5AD;
+}
+
+QPushButton:pressed {
+    background-color: #003B46;
+}
+
+QGridLayout {
+    background-color: red;
+}

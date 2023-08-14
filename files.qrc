@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>C:/Users/stadn/Downloads/icons/symbol.svg</file>
+    <file>C:/Users/stadn/Downloads/icons/1_div_x.svg</file>
+    <file>C:/Users/stadn/Downloads/icons/backspace.png</file>
+    <file>C:/Users/stadn/Downloads/icons/x^2.svg</file>
+    <file>C:/Users/stadn/Downloads/icons/calculate_FILL0_wght400_GRAD0_opsz48.png</file>
+    <file>C:/Users/stadn/Downloads/icons/sqr_x.svg</file>
+    <file>C:/Users/stadn/Downloads/icons/backspace_FILL1_wght400_GRAD0_opsz48.png</file>
+    <file>C:/Users/stadn/Downloads/icons/backspace_FILL0_wght400_GRAD0_opsz48.png</file>
+  </qresource>
+</RCC>
